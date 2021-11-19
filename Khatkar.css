@@ -1,0 +1,88 @@
+
+.header{
+    height: 450px;
+    color: black;
+    background-color:yellowgreen;
+}
+#himg{
+    width: 1221px;
+}
+#navstr{
+    border: 2px solid yellowgreen;
+    border-radius: 8px;
+    height: 50px;
+    margin: 0px 0px;
+    background-color: yellowgreen;
+    position: sticky;
+    top: 2px;
+}
+.nav li{
+    float: left;
+    padding: 0px 50px;
+    text-decoration: none;
+    list-style: none;
+}
+.nav{
+    border: 2px solid yellowgreen;
+    border-radius: 8px solid yellowgreen;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+#search{
+    float: right;
+    margin: -5px 10px;
+    padding: 2px 5px;
+    border: 2px solid yellowgreen;
+    border-radius: 4px;
+}
+#signin{
+    border: 2px solid yellowgreen;
+    height: 335px;
+    width: 250px;
+    float: right;
+    margin: 600px 1px; 
+    position: sticky;
+    top: 60px;
+    background-color: yellowgreen;
+}
+#box{
+    border: 2px solid yellowgreen;
+    height: 6666px;
+} 
+#footer{
+    border: 5px solid yellowgreen;
+    border-radius: 5px ;
+    height: 150px;
+    background-color: yellowgreen;
+}
+#leagle{
+     margin: -10px 400px;
+}
+.bfont{
+    font-size: larger;
+}
+.login{
+    color: black;
+}
+/* #khatkar{
+    border: 2px solid rgb(10, 10, 10);
+    border-radius: 15px;
+    display: inline-block;
+    width: 180px;
+    margin: 200px 450px;
+    padding: 10px 55px;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(10, 10, 8);
+    backface-visibility: 50%;
+    color: yellowgreen;
+}
+#subhead{
+    border: 2px solid black;
+    margin: 10px 10px;
+} */
